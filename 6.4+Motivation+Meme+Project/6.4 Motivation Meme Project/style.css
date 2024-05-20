@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+div {
+    width: 50%;
+    text-align: center;
+    color: white;
+    margin-left: 25%;
+}
+
+img {
+    width: 100%;
+    border: 5px solid white;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 25px;
+}
